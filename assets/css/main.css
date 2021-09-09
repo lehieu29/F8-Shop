@@ -1270,6 +1270,10 @@
     display: none;
 }
 
+i.product-item__like-icon-empty {
+    color: #000;
+}
+
 i.product-item__like-icon-fill {
     color: #f63d30;
     display: none;
@@ -1279,6 +1283,10 @@ i.product-item__like-icon-fill {
     cursor: pointer;
     font-size: 0.8rem;
     margin-left: auto;
+}
+
+.product-item__star-black {
+    color: #000;
 }
 
 .product-item__star-gold {
